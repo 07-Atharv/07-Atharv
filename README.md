@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🧑‍💻Computer Science and Engineering (AIML) Student at Pimpri Chinchwad College of Engineering Pune.<br><br>0️⃣1️⃣My favorite numbers are 1 and 0.<br><br>💡Currently Exploring the field of Machine Learning, Data Analytics, and Deep Learning.<br><br>🤝Like to contribute the open-source projects  <be><be> Technical Blogs
+🧑‍💻Computer Science and Engineering (AIML) Student at Pimpri Chinchwad College of Engineering Pune.<br><br>0️⃣1️⃣My favorite numbers are 1 and 0.<br><br>💡Currently Exploring the field of Machine Learning, Data Analytics, and Deep Learning.<br><br>🤝Like to contribute the open-source projects  <br><br> Technical Blogs
 
 
 ## 🌐 Socials:
